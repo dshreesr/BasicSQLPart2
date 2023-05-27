@@ -11,3 +11,6 @@ This table includes one row per event, where an event is an action that a user h
 
 **Table-3: email_events**
 This table contains events specific to the sending of emails. It is similar in structure to the events table above.
+
+Please have a look at projects file for details of the queries.
+
